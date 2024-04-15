@@ -6,4 +6,4 @@
 <p>Interactive gameplay powered by JavaScript, allowing users to play against the computer.</p>
 <p>Randomized computer choices to keep the game dynamic and challenging.</p>
 <p>Score tracking to monitor wins, losses, and draws.</p>
-<p>Feel free to fork this repository and customize it to your liking or contribute to its development. <p><i>Let's play some Rock Paper Scissors!</i></p>
+<p>Feel free to fork this repository and customize it to your liking or contribute to its development. <p><i>Let's play some <b>Rock Paper Scissors!</b></i></p>
